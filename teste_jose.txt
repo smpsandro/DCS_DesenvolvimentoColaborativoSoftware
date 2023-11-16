@@ -1,3 +1,7 @@
 Ola
 vdfgfdfddfg
+
+conflito ficheiro 2
+
 conflito de ficheiro
+
