@@ -22,3 +22,7 @@ git pull origin main (para colocar o repositorio igual ao do github)
 ###
 $ git branch branchsandro
 $ git checkout branchsandro
+
+git switch main
+git pull
+git merge A B
